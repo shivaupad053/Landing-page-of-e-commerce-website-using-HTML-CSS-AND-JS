@@ -1,0 +1,14 @@
+body{
+    background-color: cadetblue;
+}
+#login_as{
+    justify-content: left;
+    text-align: left;
+}
+#login{
+    text-align: right;
+    
+}
+#medicine{
+    align-items: center;
+}
